@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/gameOfLife.exe.dir/gameOfLife.cpp.o  -o gameOfLife.exe 

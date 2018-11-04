@@ -1,0 +1,2 @@
+/usr/bin/ar qc libverify_lib.a  CMakeFiles/verify_lib.dir/Check.cpp.o CMakeFiles/verify_lib.dir/Name.cpp.o CMakeFiles/verify_lib.dir/Verify.cpp.o CMakeFiles/verify_lib.dir/ZipInfo.cpp.o
+/usr/bin/ranlib libverify_lib.a

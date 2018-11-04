@@ -1,0 +1,4 @@
+/home/jonas/Documents/Ugent/Bach/3/2/GPU programmering/Assignment/C2_A1/build/CMakeFiles/edit_cache.dir
+/home/jonas/Documents/Ugent/Bach/3/2/GPU programmering/Assignment/C2_A1/build/CMakeFiles/verify_lib.dir
+/home/jonas/Documents/Ugent/Bach/3/2/GPU programmering/Assignment/C2_A1/build/CMakeFiles/rebuild_cache.dir
+/home/jonas/Documents/Ugent/Bach/3/2/GPU programmering/Assignment/C2_A1/build/CMakeFiles/Verify.exe.dir
